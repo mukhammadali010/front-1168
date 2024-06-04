@@ -1,0 +1,59 @@
+.title{
+    text-align: center;
+    background-color: rgb(143, 143, 238);
+    color: rgb(15, 15, 59);
+    border: 2px solid red;
+    border-radius: 20px;
+    /* border-bottom-right-radius: 20px; */
+}
+
+#vertual{
+    background-color: yellow;
+}
+
+i{
+    color: brown;
+    font-weight: bold;
+}
+h2{
+    color: green;
+}
+
+
+h3{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+
+button{
+    background-color: rgb(57, 60, 243);
+    width: 200px;
+    padding: 10px;
+    border: none;
+    color: white;
+}
+
+
+table{
+    border-collapse: collapse;
+    color: white;
+    width: 1000px;
+    text-align: center;
+}
+
+
+.box1{
+    background-color: green;
+}
+
+.box2{
+    background-color: blue;
+}
+
+.box3{
+    background-color: red;
+}
+.box4{
+    background-color: black;
+}
